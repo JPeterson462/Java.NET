@@ -1,0 +1,13 @@
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\jni4net.n-0.8.8.0.dll
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\jni4net.j-0.8.8.0.jar
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\JavaLauncher.deps.json
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\JavaLauncher.runtimeconfig.json
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\JavaLauncher.runtimeconfig.dev.json
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\JavaLauncher.dll
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.csproj.CoreCompileInputs.cache
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.AssemblyInfoInputs.cache
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.AssemblyInfo.cs
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.csproj.CopyComplete
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\bin\Debug\netcoreapp2.1\JavaLauncher.pdb
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.dll
+C:\Users\jpete\source\repos\JavaLauncher\JavaLauncher\obj\Debug\netcoreapp2.1\JavaLauncher.pdb
